@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Algorithm
 //
-//  Created by Apple on 2020/5/7.
-//  Copyright © 2020 com.fengge.com. All rights reserved.
+//  Created by 哈哈哥 on 2020/5/7.
+//  Copyright © 2020 com.hahage.com. All rights reserved.
 //
 
 import UIKit
