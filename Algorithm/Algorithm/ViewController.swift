@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         tree.levelOrderTranversal()//层
 
 
-        //不用第三个变量交换两个数...2 3322
+        //不用第三个变量交换两个数...2 4422
         var a = 1
         var b = 2
         a = a + b
